@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://pefimov.github.io/sitemap.xml
